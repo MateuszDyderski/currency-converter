@@ -1,0 +1,32 @@
+.form__header{
+    color:rgb(59, 162, 247);
+    text-align:center;
+}
+.form__labelText{
+    width: 100%;
+    max-width: 200px;
+    display: inline-block;
+    margin-right: 10px;
+    color:rgb(59, 162, 247);
+}
+.form__field{
+    padding:10px;
+    width:100%;
+    max-width: 350px;
+    border-radius: 5px;
+}
+.form__button{
+    width: 100%;
+    border:none;
+    background-color: teal;
+    color: white;
+    padding:5px;
+    margin: 8px;
+    border-radius: 5px;
+}
+.form__result{
+    color:rgb(59, 162, 247);
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+}

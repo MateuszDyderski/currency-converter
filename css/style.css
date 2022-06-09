@@ -1,0 +1,16 @@
+html{
+    box-sizing:border-box;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+body{
+    background-attachment: fixed;
+    background-image: url("../images/tło3.png");
+    max-width: 100%;
+    height: auto;
+    background-size: cover;
+ 
+    
+}
+
