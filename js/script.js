@@ -1,4 +1,7 @@
 {
+    const welcome = () => {
+        console.log("Witam wszystkich którzy tu zaglądają :)")
+    }
 
 
     const calculateResult = (amount, currency) => {
@@ -57,4 +60,5 @@
     };
 
     init();
+    welcome();
 }
