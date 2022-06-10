@@ -24,6 +24,12 @@
     margin: 8px;
     border-radius: 5px;
 }
+.form__button:hover{
+    background-color: hsl(180, 59%, 42%) ;
+}
+.form__button:active{
+    background-color: hsl(180, 59%, 45%) ;
+}
 .form__result{
     color:rgb(40, 156, 156);
     text-align: center;
