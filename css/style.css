@@ -6,8 +6,7 @@ html{
 }
 body{
     background-attachment: fixed;
-    background-image: url("../images/tło3.png");
-    max-width: 100%;
+    background-image: url("../images/white-image.png");
     height: auto;
     background-size: cover;
  
