@@ -1,5 +1,5 @@
 .form__header{
-    color:rgb(59, 162, 247);
+    color:rgb(40, 156, 156);
     text-align:center;
 }
 .form__labelText{
@@ -7,7 +7,7 @@
     max-width: 200px;
     display: inline-block;
     margin-right: 10px;
-    color:rgb(59, 162, 247);
+    color:rgb(40, 156, 156);
 }
 .form__field{
     padding:10px;
@@ -18,14 +18,14 @@
 .form__button{
     width: 100%;
     border:none;
-    background-color: teal;
+    background-color: rgb(40, 156, 156);
     color: white;
     padding:5px;
     margin: 8px;
     border-radius: 5px;
 }
 .form__result{
-    color:rgb(59, 162, 247);
+    color:rgb(40, 156, 156);
     text-align: center;
     margin: auto;
     font-size: 20px;
