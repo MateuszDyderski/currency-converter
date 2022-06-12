@@ -8,5 +8,5 @@
 https://mateuszdyderski.github.io/currency-converter/
 
 # *OPIS*
-Jeszcze coś tu wpiszę.
+Przelicznik walut
 
